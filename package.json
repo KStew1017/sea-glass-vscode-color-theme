@@ -1,8 +1,8 @@
-    {
+{
     "name": "sea-glass-color-theme",
     "displayName": "Sea Glass",
     "description": "Code on the beach",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "publisher": "KyleStewart",
     "icon": "assets/icon.png",
@@ -34,11 +34,11 @@
     ],
     "contributes": {
         "themes": [
-        {
-            "label": "Sea Glass",
-            "uiTheme": "vs-dark",
-            "path": "./themes/sea-glass-color-theme.json"
-        }
+            {
+                "label": "Sea Glass",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sea-glass-color-theme.json"
+            }
         ]
     }
-    }
+}
