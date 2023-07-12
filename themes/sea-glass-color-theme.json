@@ -617,6 +617,13 @@
       }
     },
     {
+      "name": "Classes",
+      "scope": "support.class.component.tsx",
+      "settings": {
+        "foreground": "#00756d"
+      }
+    },
+    {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
