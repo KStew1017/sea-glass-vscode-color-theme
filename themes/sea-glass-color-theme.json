@@ -618,7 +618,7 @@
     },
     {
       "name": "Classes",
-      "scope": "support.class.component.tsx",
+      "scope": "support.class.component.tsx, support.class.component.jsx",
       "settings": {
         "foreground": "#00756d"
       }
