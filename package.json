@@ -1,0 +1,21 @@
+{
+  "name": "sea-glass-color-theme",
+  "displayName": "Sea Glass",
+  "description": "A VSCode dark theme inspired by sea glass. Code like you're on the beach.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sea Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sea-glass-color-theme.json"
+      }
+    ]
+  }
+}
