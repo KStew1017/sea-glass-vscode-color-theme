@@ -1949,7 +1949,7 @@
     "editor.lineHighlightBackground": "#6f6b5b28",
     "editor.lineHighlightBorder": "#6f6b5b00",
     "editorLineNumber.activeForeground": "#ebdbb2",
-    "editorLink.activeForeground": "#4e94ce",
+    "editorLink.activeForeground": "#00bcaf",
     "editorIndentGuide.background": "#6f6b5b40",
     "editorIndentGuide.activeBackground": "#6f6b5b",
     "editorRuler.foreground": "#232627",
