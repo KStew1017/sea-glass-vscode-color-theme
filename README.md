@@ -1,2 +1,3 @@
 # Sea Glass Color Theme
-## For VSCode
+
+A VSCode dark theme inspired by sea glass. Code like you're on the beach.
