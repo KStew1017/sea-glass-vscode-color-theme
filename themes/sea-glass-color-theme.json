@@ -200,9 +200,16 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#ebdbb2"
+        "foreground": "#BAEDD5"
       }
     },
+    {
+        "name": "js/ts variable.other.constant",
+        "scope": "variable.other.constant.js, variable.other.constant.ts",
+        "settings": {
+          "foreground": "#BAEDD5"
+        }
+      },
     {
       "name": "java type",
       "scope": [
