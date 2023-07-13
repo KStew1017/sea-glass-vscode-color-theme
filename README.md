@@ -32,10 +32,6 @@ This theme was inspired first by the [Gruvbox Theme](https://marketplace.visuals
 
 This theme was created by [Kyle Stewart](https://github.com/KStew1017).
 
-## Changelog
-
-See the [CHANGELOG](./CHANGELOG.md) for the latest changes.
-
 ---
 
 Please rate and share if you like this theme. Thanks!
