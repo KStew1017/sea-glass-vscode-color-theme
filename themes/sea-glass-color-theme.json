@@ -627,7 +627,7 @@
         "name": "Classes",
         "scope": "meta.jsx.children.js.jsx, meta.jsx.children.js, meta.jsx.children.tsx",
         "settings": {
-          "foreground": "#6efff5"
+          "foreground": "#baedd5"
         }
       },
     {
@@ -1936,7 +1936,7 @@
     "editorCursor.foreground": "#6f6b5b",
     "editorCursor.background": "#ebdbb2",
     "editor.selectionBackground": "#6f6b5b66",
-    "editor.inactiveSelectionBackground": "#6f6b5b66",
+    "editor.inactiveSelectionBackground": "#6f6b5b10",
     "editorWhitespace.foreground": "#6f6b5b66",
     "editor.selectionHighlightBackground": "#6f6b5b66",
     "editor.selectionHighlightBorder": "#6f6b5b66",
