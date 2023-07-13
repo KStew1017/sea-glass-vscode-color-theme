@@ -204,8 +204,8 @@
       }
     },
     {
-        "name": "js/ts variable.other.constant",
-        "scope": "variable.other.constant.js, variable.other.constant.ts",
+        "name": "js/ts variable.other.property",
+        "scope": "variable.other.property.js, variable.other.property.ts",
         "settings": {
           "foreground": "#BAEDD5"
         }
