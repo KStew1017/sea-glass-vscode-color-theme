@@ -8,6 +8,14 @@ A VSCode dark theme inspired by sea glass. Code like you're on the beach.
 
 ![Sea Glass Theme](./assets/sea-glass-theme-2.png)
 
+---
+
+![Sea Glass Theme](./assets/sea-glass-theme-3.png)
+
+---
+
+![Sea Glass Theme](./assets/sea-glass-theme-4.png)
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -18,7 +26,7 @@ A VSCode dark theme inspired by sea glass. Code like you're on the beach.
 
 ## Tips
 
-- This theme was created initially with languages like JavaScript, TypeScript, HTML, and CSS in mind. Therefore if you are using a language that is not properly supported, please open an issue on the [Sea Glass Theme Github Repo](https://github.com/KStew1017/sea-glass-vscode-color-theme) and I will try to add support for it.
+- This theme was created initially with languages like JavaScript, TypeScript, HTML, and CSS in mind. Therefore if you are using a language or framework that is not properly supported, please open an issue on the [Sea Glass Theme Github Repo](https://github.com/KStew1017/sea-glass-vscode-color-theme) and I will try to add support for it.
 
 - With colorized bracket pairs now a native feature in VSCode, I recommend disabling them in your settings for a cleaner look. To do this, open your `settings.json` file by pressing `Ctrl + Shift + P` and typing `Preferences: Open User Settings (JSON)`. Then add the following line anywhere in your settings file:
 

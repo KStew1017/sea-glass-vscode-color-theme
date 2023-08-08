@@ -207,7 +207,7 @@
         "name": "js/ts variable.other.property",
         "scope": "variable.other.property.js, variable.other.property.ts",
         "settings": {
-          "foreground": "#BAEDD5"
+          "foreground": "#cdeedf"
         }
       },
     {
@@ -634,7 +634,7 @@
         "name": "Classes",
         "scope": "meta.jsx.children.js.jsx, meta.jsx.children.js, meta.jsx.children.tsx",
         "settings": {
-          "foreground": "#baedd5"
+          "foreground": "#cdeedf"
         }
       },
     {
