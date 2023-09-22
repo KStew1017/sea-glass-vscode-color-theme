@@ -207,7 +207,8 @@
         "name": "js/ts variable.other.property",
         "scope": "variable.other.property.js, variable.other.property.ts",
         "settings": {
-          "foreground": "#cdeedf"
+          "foreground": "#cdeedf",
+          "fontStyle": "italic"
         }
       },
     {
@@ -785,7 +786,7 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#a98be1"
+        "foreground": "#8be1c0"
       }
     },
     {
