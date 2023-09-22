@@ -347,6 +347,13 @@
       }
     },
     {
+        "name": "ts variable readwrite",
+        "scope": "meta.object-literal.key.ts",
+        "settings":{
+            "foreground": "#00BCAF",
+        }
+    },
+    {
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
@@ -778,7 +785,7 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#b7f3db"
+        "foreground": "#a98be1"
       }
     },
     {
