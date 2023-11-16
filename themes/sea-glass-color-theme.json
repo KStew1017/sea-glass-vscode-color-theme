@@ -212,6 +212,14 @@
             }
         },
         {
+            "name": "Variable property",
+            "scope": "property",
+            "settings": {
+                "foreground": "#cdeedf",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "java type",
             "scope": [
                 "storage.type.annotation.java",
@@ -557,6 +565,13 @@
             }
         },
         {
+            "name": "Semantic Namespaces",
+            "scope": "namespace",
+            "settings": {
+                "foreground": "#ebdbb2"
+            }
+        },
+        {
             "name": "Variables",
             "scope": "variable",
             "settings": {
@@ -639,6 +654,14 @@
             }
         },
         {
+            "name": "Interfaces",
+            "scope": "interface, entity.name.type.interface",
+            "settings": {
+                "foreground": "#009489",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Classes",
             "scope": "meta.jsx.children.js.jsx, meta.jsx.children.js, meta.jsx.children.tsx",
             "settings": {
@@ -678,6 +701,13 @@
             }
         },
         {
+            "name": "Semantic Type Name",
+            "scope": "type",
+            "settings": {
+                "foreground": "#ebdbb2"
+            }
+        },
+        {
             "name": "Keyword Control",
             "scope": "keyword.control",
             "settings": {
@@ -693,7 +723,7 @@
         },
         {
             "name": "Methods",
-            "scope": "keyword.other.special-method",
+            "scope": "keyword.other.special-method, method",
             "settings": {
                 "foreground": "#009489"
             }
@@ -724,6 +754,13 @@
             "scope": "token.storage.type.java",
             "settings": {
                 "foreground": "#ebdbb2"
+            }
+        },
+        {
+            "name": "Semantic Struct",
+            "scope": "struct",
+            "settings": {
+                "foreground": "#f92672"
             }
         },
         {
@@ -766,6 +803,20 @@
             "scope": "string",
             "settings": {
                 "foreground": "#91f697"
+            }
+        },
+        {
+            "name": "Classes",
+            "scope": "class",
+            "settings": {
+                "foreground": "#95fff8"
+            }
+        },
+        {
+            "name": "Enums",
+            "scope": "enum",
+            "settings": {
+                "foreground": "#95fff8"
             }
         },
         {
@@ -1979,8 +2030,8 @@
         "editor.lineHighlightBorder": "#6f6b5b00",
         "editorLineNumber.activeForeground": "#ebdbb2",
         "editorLink.activeForeground": "#00bcaf",
-        "editorIndentGuide.background": "#6f6b5b40",
-        "editorIndentGuide.activeBackground": "#6f6b5b",
+        "editorIndentGuide.background1": "#6f6b5b40",
+        "editorIndentGuide.activeBackground1": "#6f6b5b",
         "editorRuler.foreground": "#232627",
         "editorBracketMatch.background": "#6f6b5b40",
         "editorBracketMatch.border": "#6f6b5b40",
