@@ -1,4 +1,4 @@
-![Sea Glass Logo](./assets/sea-glass-logo.png)
+![Sea Glass Logo](./assets/icon.png)
 
 # Sea Glass Theme
 
