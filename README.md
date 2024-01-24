@@ -1,6 +1,10 @@
+![Sea Glass Logo](./assets/sea-glass-logo.png)
+
 # Sea Glass Theme
 
-A VSCode dark theme inspired by sea glass. Code like you're on the beach.
+A VSCode dark theme inspired by sea glass.
+
+---
 
 ![Sea Glass Theme](./assets/sea-glass-theme-1.png)
 
