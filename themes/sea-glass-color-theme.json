@@ -81,7 +81,7 @@
             "name": "variable.language.rust",
             "scope": "variable.language.rust",
             "settings": {
-                "foreground": "#00bcaf"
+                "foreground": "#ebdbb2"
             }
         },
         {
@@ -200,25 +200,18 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#00BCAF"
+                "foreground": "#009489"
             }
         },
         {
             "name": "js/ts variable.other.property",
             "scope": "variable.other.property.js, variable.other.property.ts",
             "settings": {
-                "foreground": "#cdeedf",
+                "foreground": "#00BCAF",
                 "fontStyle": "italic"
             }
         },
-        {
-            "name": "Variable property",
-            "scope": "property",
-            "settings": {
-                "foreground": "#cdeedf",
-                "fontStyle": "italic"
-            }
-        },
+
         {
             "name": "java type",
             "scope": [
@@ -346,6 +339,13 @@
             "scope": "entity.name.type.module",
             "settings": {
                 "foreground": "#ebdbb2"
+            }
+        },
+        {
+            "name": "entity.name.type.parameter",
+            "scope": "entity.name.type.parameter",
+            "settings": {
+                "foreground": "#91F697"
             }
         },
         {
@@ -837,7 +837,7 @@
             "name": "Integers",
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#8be1c0"
+                "foreground": "#DB63B2"
             }
         },
         {
@@ -1134,6 +1134,13 @@
             }
         },
         {
+            "name": "constant.language.undefined.ts",
+            "scope": "constant.language.undefined.ts",
+            "settings": {
+                "foreground": "#216463"
+            }
+        },
+        {
             "name": "[VSCODE-CUSTOM] JSON Property Name",
             "scope": "support.type.property-name.json",
             "settings": {
@@ -1347,7 +1354,7 @@
             "name": "ts primitive/builtin types",
             "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
             "settings": {
-                "foreground": "#ebdbb2"
+                "foreground": "#216463"
             }
         },
         {
@@ -1905,6 +1912,13 @@
             "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
             "settings": {
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
+            "scope": "variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
+            "settings": {
+                "foreground": "#ebdbb2"
             }
         },
         {
