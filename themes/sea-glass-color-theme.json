@@ -7,7 +7,7 @@
             "foreground": "#f92672"
         },
         "variable.constant": {
-            "foreground": "#b7f3db"
+            "foreground": "#DB63B2"
         },
         "variable.defaultLibrary": {
             "foreground": "#ebdbb2"
@@ -200,14 +200,14 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#009489"
+                "foreground": "#ebdbb2"
             }
         },
         {
             "name": "js/ts variable.other.property",
             "scope": "variable.other.property.js, variable.other.property.ts",
             "settings": {
-                "foreground": "#00BCAF",
+                "foreground": "#B7F3DB",
                 "fontStyle": "italic"
             }
         },
@@ -352,7 +352,7 @@
             "name": "js variable readwrite",
             "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
             "settings": {
-                "foreground": "#00bcaf"
+                "foreground": "#ebdbb2"
             }
         },
         {
@@ -697,7 +697,14 @@
             "name": "Type Name",
             "scope": "entity.name.type",
             "settings": {
-                "foreground": "#ebdbb2"
+                "foreground": "#B7F3DB"
+            }
+        },
+        {
+            "name": "Return Type",
+            "scope": "meta.return.type",
+            "settings": {
+                "foreground": "#216463"
             }
         },
         {
@@ -1137,7 +1144,14 @@
             "name": "constant.language.undefined.ts",
             "scope": "constant.language.undefined.ts",
             "settings": {
-                "foreground": "#216463"
+                "foreground": "#DB63B2"
+            }
+        },
+        {
+            "name": "Constant Booleans",
+            "scope": "constant.language.boolean",
+            "settings": {
+                "foreground": "#DB63B2"
             }
         },
         {
@@ -1354,7 +1368,7 @@
             "name": "ts primitive/builtin types",
             "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
             "settings": {
-                "foreground": "#216463"
+                "foreground": "#B7F3DB"
             }
         },
         {
